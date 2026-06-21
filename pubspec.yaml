@@ -18,7 +18,7 @@ dependencies:
 
   # PDF text + image extraction
   syncfusion_flutter_pdf: ^26.2.14
-  pdf_text: ^0.5.0
+  
 
   # PPTX parsing (XML based, .pptx is a zip of XML files)
   archive: ^3.6.1
